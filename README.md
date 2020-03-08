@@ -8,7 +8,7 @@ Most of the challenges on freeCodeCamp use the ECMAScript 5 (ES5) specification 
 
 The most recent standardized version is called ECMAScript 6 (ES6), released in 2015. This new version of the language adds some powerful features that will be covered in this section of challenges, including:
 
-⋅⋅* Arrow functions
+* Arrow functions
 ⋅⋅* Classes
 ⋅⋅* Modules
 ⋅⋅* Promises
